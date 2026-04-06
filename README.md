@@ -33,6 +33,12 @@ This project builds an end-to-end spatial machine learning pipeline to answer th
 
 ---
 
+## Interactive Dashboard
+
+[![Tableau](https://img.shields.io/badge/Tableau-View%20Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/mallikarjun.bhusnoor/viz/LastMileDashboard_17755096965200/LastMileDashboard)
+
+[View The Last Mile Dashboard on Tableau Public](https://public.tableau.com/app/profile/mallikarjun.bhusnoor/viz/LastMileDashboard_17755096965200/LastMileDashboard)
+
 ## The Surprising Finding
 
 Spatial clustering and poverty are stronger predictors of opioid mortality than pharmacy access alone. SHAP analysis revealed that a county's LISA cluster classification — whether it sits in a High-High mortality cluster — contributes 23.5 deaths per 100k to the prediction, compared to near-zero contribution from the pharmacy desert binary flag.
