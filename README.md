@@ -5,7 +5,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-green)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-Online-blue?logo=esri)
 ![Tableau](https://img.shields.io/badge/Tableau-Desktop-yellow?logo=tableau)
-![HPC](https://img.shields.io/badge/HPC-UIUC-red)
+
 
 ## The Question
 
